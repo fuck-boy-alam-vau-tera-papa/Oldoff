@@ -1,0 +1,1 @@
+["[FBAN/FB4A;FBAV/263.0.0.46.121;FBBV/205281674;FBDM/{density=2.25,width=720,height=1332};FBLC/en_GB;FBRV/0;FBCR/airtel;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 6A;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",]
